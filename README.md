@@ -1,8 +1,10 @@
 # Celtic Lunar-Seasonal Calendar
 
+
 ## A Return to Natural Time
 
 The Celtic Lunar-Seasonal Calendar is a time-keeping system that aligns with the actual rhythms of the cosmos rather than arbitrary human divisions. This calendar begins each year on the spring equinox and tracks months by the phases of the moon, honoring both solar and lunar cycles in their natural relationship.
+
 
 ## Philosophy
 
@@ -18,6 +20,7 @@ This calendar system is based on five philosophical principles:
 
 5. **Attentiveness** - Requiring mindfulness of moon phases and seasonal changes, fostering a deeper connection to the natural world.
 
+
 ## Repository Contents
 
 This repository contains the following resources:
@@ -25,6 +28,7 @@ This repository contains the following resources:
 - [Celtic-Inspired Lunar-Seasonal Calendar for 2025](celtic-lunar-calendar-2025.md) - A practical calendar for the current year with month start/end dates and lengths
 - [The Sacred Meanings of the Celtic Lunar-Seasonal Calendar](celtic-month-meanings.md) - An exploration of the meaning and symbolism of each month
 - [The Structure and Mechanics of the Celtic Lunar-Seasonal Calendar](celtic-calendar-mechanics.md) - A technical explanation of the astronomical foundations of the calendar
+
 
 ## Using This Calendar
 
@@ -35,11 +39,13 @@ The Celtic Lunar-Seasonal Calendar can be used alongside the conventional Gregor
 3. **Explore the month energies** - Consider the symbolic meaning of the current month and how it might inform your activities
 4. **Create personal or community rituals** - Celebrate the beginning of each month, the solstices and equinoxes, and the new year
 
+
 ## Background
 
 This calendar system draws inspiration from traditional Celtic timekeeping while incorporating astronomical accuracy. It honors both scientific precision and spiritual meaning, offering a way to reconnect with natural cycles in our modern world.
 
 Unlike many modern calendar reforms that prioritize mathematical convenience, this system prioritizes actual celestial events and natural relationships between cycles, creating a more authentic connection to cosmic rhythms.
+
 
 ## Special Features
 
@@ -47,6 +53,7 @@ Unlike many modern calendar reforms that prioritize mathematical convenience, th
 2. **The Imram Practice** - A personal ritual practice conducted during Eadarra that honors the crossing of thresholds and the individual journey into new beginnings. This complements rather than replaces traditional Celtic festivals.
 3. **The Grianstad Practice** - A complementary summer solstice ritual that acknowledges the fullness of the year at its peak, balancing the emptying and beginning energies of the Imram.
 4. **13-Month Years** - Approximately every three years, the calendar naturally includes 13 lunar months between spring equinoxes, acknowledging the true relationship between lunar and solar cycles.
+
 
 ## Relationship to Traditional Celtic Festivals
 
@@ -56,9 +63,11 @@ This calendar respects and complements the traditional Celtic fire festivals (Sa
    * The traditional festivals remain important community celebrations within our framework
    * Our calendar adds astronomical precision to personal timekeeping while honoring the cultural significance of established Celtic observances
 
+
 ## Contributions
 
 This is an evolving project. Contributions, suggestions, and adaptations are welcome. If you develop resources, rituals, or adaptations of this calendar system, please consider sharing them through a pull request.
+
 
 ## License
 
