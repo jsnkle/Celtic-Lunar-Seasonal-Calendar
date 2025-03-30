@@ -41,6 +41,13 @@ This calendar system draws inspiration from traditional Celtic timekeeping while
 
 Unlike many modern calendar reforms that prioritize mathematical convenience, this system prioritizes actual celestial events and natural relationships between cycles, creating a more authentic connection to cosmic rhythms.
 
+## Special Features
+
+1. **Eadarra, the Threshold Month** - The first month of each year (Eadarra) has a variable length, beginning on the spring equinox and ending with the next new moon. This deliberate variability honors the uncertain, liminal nature of transitions between states.
+2. **The Imram Practice** - A personal ritual practice conducted during Eadarra that honors the crossing of thresholds and the individual journey into new beginnings. This complements rather than replaces traditional Celtic festivals.
+3. **The Grianstad Practice** - A complementary summer solstice ritual that acknowledges the fullness of the year at its peak, balancing the emptying and beginning energies of the Imram.
+4. **13-Month Years** - Approximately every three years, the calendar naturally includes 13 lunar months between spring equinoxes, acknowledging the true relationship between lunar and solar cycles.
+
 ## Contributions
 
 This is an evolving project. Contributions, suggestions, and adaptations are welcome. If you develop resources, rituals, or adaptations of this calendar system, please consider sharing them through a pull request.
