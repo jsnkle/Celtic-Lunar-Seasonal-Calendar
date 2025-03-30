@@ -48,6 +48,14 @@ Unlike many modern calendar reforms that prioritize mathematical convenience, th
 3. **The Grianstad Practice** - A complementary summer solstice ritual that acknowledges the fullness of the year at its peak, balancing the emptying and beginning energies of the Imram.
 4. **13-Month Years** - Approximately every three years, the calendar naturally includes 13 lunar months between spring equinoxes, acknowledging the true relationship between lunar and solar cycles.
 
+## Relationship to Traditional Celtic Festivals
+
+This calendar respects and complements the traditional Celtic fire festivals (Samhain, Imbolc, Beltane, and Lughnasadh):
+
+   * While Imbolc (February 1-2) celebrates the first stirrings of spring within the community context, our calendar recognizes the spring equinox as the astronomical beginning of a new year
+   * The traditional festivals remain important community celebrations within our framework
+   * Our calendar adds astronomical precision to personal timekeeping while honoring the cultural significance of established Celtic observances
+
 ## Contributions
 
 This is an evolving project. Contributions, suggestions, and adaptations are welcome. If you develop resources, rituals, or adaptations of this calendar system, please consider sharing them through a pull request.
