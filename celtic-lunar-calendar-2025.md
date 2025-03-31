@@ -6,11 +6,11 @@ This astronomically accurate lunar-seasonal calendar begins with the spring equi
 
 ### Months of the Current Year
 
-1. **Bláthú** (Spring Equinox Month)
+1. **Eadarra** (Spring Equinox Month)
    * Begins: March 20, 2025 (Spring Equinox)
    * Ends: March 28, 2025
    * Days: 9
-   * *Note: This first month is shorter as it begins on the spring equinox and ends the day before the next new moon*
+   * *Note: This first month is deliberately variable in length, beginning on the spring equinox and ending the day before the next new moon, embodying the unpredictable nature of threshold transitions*
 
 2. **Brigid**
    * Begins: March 29, 2025 (New Moon at 6:57 AM EDT)
