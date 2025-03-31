@@ -6,14 +6,16 @@ The Celtic Lunar-Seasonal Calendar is not merely a method of counting days, but 
 
 ## The Month Names and Their Sacred Meanings
 
-### 1. **Bláthú** (BLAH•too) - The Flowering of Potential
+### 1. **Eadarra** (AH•dar•ra) - The Sacred Threshold
 *The month containing the spring equinox*
 
-Bláthú, meaning "blooming" or "flowering" in Irish, marks the awakening of the world from winter's slumber. This is the time when the seed that has lain dormant in darkness finally pushes through the soil toward light. As the days and nights achieve perfect balance at the equinox, Bláthú reminds us that we too exist in a state of dynamic equilibrium between opposing forces.
+Eadarra, meaning "between" or "in-between state" in Irish, honors the liminal space of transition between winter's end and spring's full emergence. This first month of varying length embodies the threshold quality of all beginnings—the sacred pause between what was and what will be.
 
-The energy of Bláthú invites us to recognize the dormant potential within ourselves that is ready to burst forth. Just as the first flowers brave the lingering cold to bloom, this month encourages courage and the willingness to emerge renewed after periods of introspection or challenge. It is a time of birth, new beginnings, and the miracle of creation manifesting from the void.
+In Celtic tradition, the spring equinox represented a powerful threshold between worlds. Our ancestors understood that such liminal times were when the veil between worlds grew thin, allowing for profound insights and communication with the Otherworld. Eadarra thus carries the energy of prophecy, inspiration, and unexpected illumination.
 
-In Celtic tradition, the spring equinox represented a powerful threshold between worlds. Our ancestors understood that such liminal times were when the veil between worlds grew thin, allowing for profound insights and communication with the Otherworld. Bláthú thus carries the energy of prophecy, inspiration, and unexpected illumination.
+The variable length of Eadarra serves as a profound spiritual & philosophical reminder: transitions don't conform to rigid timeframes but take exactly as long as they need. In some years, this threshold month may be brief—a rapid awakening; in others, it stretches longer—a gradual unfolding. This unpredictability reflects the true nature of transformation, which rarely follows our predetermined schedules.
+
+In Celtic tradition, thresholds were considered places of immense power and potency. The doorway, the shoreline, the forest edge—these in-between spaces were where magic was most possible, where seers could glimpse the Otherworld. Eadarra carries this liminal energy, reminding us that we stand in a gateway between past and future, between who we were and who we are becoming.
 
 ### 2. **Brigid** (BRIJ•id) - The Sacred Flame
 *Goddess of poetry, healing, and smithcraft*
