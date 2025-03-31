@@ -78,9 +78,9 @@ Key aspects of month structure:
    * The first visible crescent moon appears 1-2 days after the month begins
 
 3. **First Month Exception**
-   * The first month of the year (Bláthú) begins on the spring equinox regardless of moon phase
-   * This creates a "partial month" in some years when the equinox falls between new moons
-   * This partial month still carries the energy of Bláthú and marks the transition into the new year
+   * The first month of the year (Eadarra) begins on the spring equinox regardless of moon phase
+   * This creates a "threshold month" of variable length when the equinox falls between new moons
+   * This variability is intentional, reflecting the liminal nature of transitions between states
 
 ### Day Counting
 
