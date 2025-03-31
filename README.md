@@ -25,9 +25,9 @@ This calendar system is based on five philosophical principles:
 
 This repository contains the following resources:
 
-- [Celtic-Inspired Lunar-Seasonal Calendar for 2025](celtic-lunar-calendar-2025.md) - A practical calendar for the current year with month start/end dates and lengths
-- [The Sacred Meanings of the Celtic Lunar-Seasonal Calendar](celtic-month-meanings.md) - An exploration of the meaning and symbolism of each month
 - [The Structure and Mechanics of the Celtic Lunar-Seasonal Calendar](celtic-calendar-mechanics.md) - A technical explanation of the astronomical foundations of the calendar
+- [The Sacred Meanings of the Celtic Lunar-Seasonal Calendar](celtic-month-meanings.md) - An exploration of the meaning and symbolism of each month
+- [Celtic-Inspired Lunar-Seasonal Calendar for 2025](celtic-lunar-calendar-2025.md) - A practical calendar for the current year with month start/end dates and lengths
 
 
 ## Using This Calendar
