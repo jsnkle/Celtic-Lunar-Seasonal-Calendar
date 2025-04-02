@@ -50,9 +50,16 @@ Unlike many modern calendar reforms that prioritize mathematical convenience, th
 ## Special Features
 
 1. **Eadarra, the Threshold Month** - The first month of each year (Eadarra) has a variable length, beginning on the spring equinox and ending with the next new moon. This deliberate variability honors the uncertain, liminal nature of transitions between states.
-2. **The Imram Practice** - A personal ritual practice conducted during Eadarra that honors the crossing of thresholds and the individual journey into new beginnings. This complements rather than replaces traditional festivals.
-3. **The Grianstad Practice** - A complementary summer solstice ritual that acknowledges the fullness of the year at its peak, balancing the emptying and beginning energies of the Imram.
-4. **13-Month Years** - Approximately every three years, the calendar naturally includes 13 lunar months between spring equinoxes, acknowledging the true relationship between lunar and solar cycles.
+
+2. **13-Month Years** - Approximately every three years, the calendar naturally includes 13 lunar months between spring equinoxes, acknowledging the true relationship between lunar and solar cycles.
+
+3. **Observational Basis** - The calendar relies on direct observation of astronomical events rather than mathematical formulas, connecting users more deeply to natural cycles.
+
+4. **Spiral Time Concept** - Unlike linear or purely cyclical calendars, the Draíocht Calendar embodies a spiral concept of time—returning to similar positions while never repeating exactly the same way.
+
+5. **Harmony Between Solar and Lunar** - The calendar honors both solar markers (equinoxes, solstices) and lunar cycles (new moons) without artificially forcing them into alignment.
+
+6. **Natural Variability** - The calendar embraces the natural variability in astronomical cycles rather than imposing artificial regularization, honoring the true patterns of the cosmos.
 
 
 ## Relationship to Traditional Festivals
