@@ -87,9 +87,7 @@ The Draíocht Calendar can be used alongside the conventional Gregorian calendar
 
 Each month in the calendar carries unique symbolism and energy that invites different practices and focus. The document on [The Sacred Meanings of the Draíocht Calendar](draiocht-month-meanings.md) provides detailed information about the symbolic meaning of each month and suggestions for aligning with those energies.
 
-Additionally, two specific practices are mentioned:
-- **The Imram Practice** - A personal ritual practice conducted during Eadarra that honors the crossing of thresholds and the individual journey into new beginnings.
-- **The Grianstad Practice** - A complementary summer solstice ritual that acknowledges the fullness of the year at its peak, balancing the emptying and beginning energies of the Imram.
+You can develop personal practices that honor the specific qualities of each month, creating rituals that help you connect with the seasonal and lunar energies as they shift throughout the year.
 
 ### How does this calendar relate to traditional festivals?
 
