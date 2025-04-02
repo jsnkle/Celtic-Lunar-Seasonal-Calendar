@@ -1,10 +1,16 @@
-# The Structure and Mechanics of the Celtic Lunar-Seasonal Calendar
+# The Structure and Mechanics of the Draíocht Calendar
 
 ## A Return to Cosmic Time
 
 *"The most elegant calendar is written not in our books but in the stars, the moon, and the turning of Earth itself."*
 
-The Celtic Lunar-Seasonal Calendar represents a fundamental shift away from arbitrary human divisions of time toward alignment with the actual rhythms of the cosmos. This document explains the astronomical mechanics and structural principles that govern this calendar system, demonstrating its natural elegance and scientific validity.
+The Draíocht Calendar represents a fundamental shift away from arbitrary human divisions of time toward alignment with the actual rhythms of the cosmos. This document explains the astronomical mechanics and structural principles that govern this calendar system, demonstrating its natural elegance and scientific validity.
+
+## About the Name
+
+Draíocht (pronounced DREE-oct) is an Irish term derived from the Old Irish "druídecht" meaning "the secret lore and arts of the druids." This name reflects our understanding that this calendar system reconstructs what might have been the original approach to timekeeping practiced by ancient Druids before Roman influence. Unlike later Celtic calendars that show significant Roman adaptation, the Draíocht Calendar emphasizes direct astronomical observation and natural cycles over imposed mathematical systems.
+
+Ancient Druids were highly educated individuals who spent up to 20 years studying natural philosophy, astronomy, and religious practices. As respected knowledge-keepers who moved between tribes, they would have developed sophisticated methods for tracking time based on careful observation of celestial events. The Draíocht Calendar honors this wisdom tradition by prioritizing observation and connection with natural cycles.
 
 ## Fundamental Principles
 
