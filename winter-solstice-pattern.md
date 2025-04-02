@@ -1,31 +1,31 @@
-# Winter Solstice Pattern in the Celtic Lunar-Seasonal Calendar (2025-2044)
+# Winter Solstice Pattern in the Draíocht Calendar (2025-2044)
 
 The winter solstice—the longest night and the rebirth of the sun—creates a profound pattern as it moves through different months of our calendar over the 19-year Metonic cycle. Each unique combination offers its own spiritual significance and energetic qualities as we experience the darkest time of the year.
 
 ## The 19-Year Pattern
 
-| Year | Gregorian Date | Celtic Month & Day | Notes |
-|------|----------------|-------------------|-------|
-| 2025 | December 21 | Dorchadas 2 | Near beginning of Dorchadas |
-| 2026 | December 21 | Dorchadas 12 | Middle of Dorchadas |
-| 2027 | December 21 | Dagda 22 | Late in Dagda |
-| 2028 | December 21 | Danu 2 | Beginning of Danu |
-| 2029 | December 21 | Dorchadas 21 | After 13-month year, shifts later |
-| 2030 | December 21 | Dorchadas 30 | End of Dorchadas |
-| 2031 | December 21 | Dagda 9 | Early in Dagda |
-| 2032 | December 21 | Danu 19 | Late in Danu |
-| 2033 | December 21 | Dorchadas 8 | After 13-month year, shifts later |
-| 2034 | December 21 | Dorchadas 18 | Middle of Dorchadas |
-| 2035 | December 22 | Dagda 27 | End of Dagda |
-| 2036 | December 21 | Danu 7 | Early in Danu |
-| 2037 | December 21 | Dorchadas 26 | After 13-month year, shifts later |
-| 2038 | December 21 | Dagda 6 | Early in Dagda |
-| 2039 | December 22 | Danu 16 | Middle of Danu |
-| 2040 | December 21 | Cothrom 25 | Rare occurrence in Cothrom |
-| 2041 | December 21 | Dorchadas 15 | After 13-month year, shifts later |
-| 2042 | December 21 | Dagda 24 | Late in Dagda |
-| 2043 | December 22 | Danu 4 | Early in Danu |
-| 2044 | December 21 | Dorchadas 24 | After 13-month year, returns to pattern |
+| Year | Gregorian Date | Draíocht Date | Notes |
+|------|----------------|---------------|-------|
+| 2025 | December 21 | Dorchadas 2   | Near beginning of Dorchadas |
+| 2026 | December 21 | Dorchadas 12  | Middle of Dorchadas |
+| 2027 | December 21 | Dagda 22      | Late in Dagda |
+| 2028 | December 21 | Danu 2        | Beginning of Danu |
+| 2029 | December 21 | Dorchadas 21  | After 13-month year, shifts later |
+| 2030 | December 21 | Dorchadas 30  | End of Dorchadas |
+| 2031 | December 21 | Dagda 9       | Early in Dagda |
+| 2032 | December 21 | Danu 19       | Late in Danu |
+| 2033 | December 21 | Dorchadas 8   | After 13-month year, shifts later |
+| 2034 | December 21 | Dorchadas 18  | Middle of Dorchadas |
+| 2035 | December 22 | Dagda 27      | End of Dagda |
+| 2036 | December 21 | Danu 7        | Early in Danu |
+| 2037 | December 21 | Dorchadas 26  | After 13-month year, shifts later |
+| 2038 | December 21 | Dagda 6       | Early in Dagda |
+| 2039 | December 22 | Danu 16       | Middle of Danu |
+| 2040 | December 21 | Cothrom 25    | Rare occurrence in Cothrom |
+| 2041 | December 21 | Dorchadas 15  | After 13-month year, shifts later |
+| 2042 | December 21 | Dagda 24      | Late in Dagda |
+| 2043 | December 22 | Danu 4        | Early in Danu |
+| 2044 | December 21 | Dorchadas 24  | After 13-month year, returns to pattern |
 
 ## Spiritual Interpretations
 

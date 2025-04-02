@@ -1,31 +1,31 @@
-# Autumn Equinox Pattern in the Celtic Lunar-Seasonal Calendar (2025-2044)
+# Autumn Equinox Pattern in the Draíocht Calendar (2025-2044)
 
 The autumn equinox—when day and night stand in perfect balance as we transition to the darker half of the year—creates a meaningful pattern as it moves through different months of our calendar over the 19-year Metonic cycle. Each unique combination offers its own spiritual significance and energetic qualities.
 
 ## The 19-Year Pattern
 
-| Year | Gregorian Date | Celtic Month & Day | Notes |
-|------|----------------|-------------------|-------|
-| 2025 | September 22 | Mórrígan 1 | Equinox on the first day of Mórrígan |
-| 2026 | September 22 | Cothrom 10 | Shifts to earlier month in Celtic year |
-| 2027 | September 23 | Cothrom 21 | Late in Cothrom |
-| 2028 | September 22 | Mórrígan 10 | After 13-month year, shifts later |
-| 2029 | September 22 | Cothrom 19 | Shifts to earlier month again |
-| 2030 | September 22 | Cothrom 29 | End of Cothrom |
-| 2031 | September 23 | Danu 8 | Continues shift to earlier month |
-| 2032 | September 22 | Mórrígan 18 | After 13-month year, shifts later |
-| 2033 | September 22 | Cothrom 27 | Late in Cothrom |
-| 2034 | September 23 | Danu 6 | Shifts to earlier month again |
-| 2035 | September 22 | Danu 16 | Middle of Danu |
-| 2036 | September 22 | Mórrígan 25 | After 13-month year, shifts later |
-| 2037 | September 23 | Cothrom 5 | Early in Cothrom |
-| 2038 | September 22 | Danu 14 | Continues shift to earlier month |
-| 2039 | September 23 | Mórrígan 3 | After 13-month year, shifts later |
-| 2040 | September 22 | Cothrom 13 | Middle of Cothrom |
-| 2041 | September 22 | Danu 23 | Late in Danu |
-| 2042 | September 23 | Cernunnos 2 | Rare occurrence in Cernunnos |
-| 2043 | September 22 | Mórrígan 12 | After 13-month year, returns to pattern |
-| 2044 | September 22 | Cothrom 22 | Completes cycle, similar to 2027 position |
+| Year | Gregorian Date | Draíocht Date | Notes |
+|------|----------------|---------------|-------|
+| 2025 | September 22 | Mórrígan 1    | Equinox on the first day of Mórrígan |
+| 2026 | September 22 | Cothrom 10    | Shifts to earlier month in Celtic year |
+| 2027 | September 23 | Cothrom 21    | Late in Cothrom |
+| 2028 | September 22 | Mórrígan 10   | After 13-month year, shifts later |
+| 2029 | September 22 | Cothrom 19    | Shifts to earlier month again |
+| 2030 | September 22 | Cothrom 29    | End of Cothrom |
+| 2031 | September 23 | Danu 8        | Continues shift to earlier month |
+| 2032 | September 22 | Mórrígan 18   | After 13-month year, shifts later |
+| 2033 | September 22 | Cothrom 27    | Late in Cothrom |
+| 2034 | September 23 | Danu 6        | Shifts to earlier month again |
+| 2035 | September 22 | Danu 16       | Middle of Danu |
+| 2036 | September 22 | Mórrígan 25   | After 13-month year, shifts later |
+| 2037 | September 23 | Cothrom 5     | Early in Cothrom |
+| 2038 | September 22 | Danu 14       | Continues shift to earlier month |
+| 2039 | September 23 | Mórrígan 3    | After 13-month year, shifts later |
+| 2040 | September 22 | Cothrom 13    | Middle of Cothrom |
+| 2041 | September 22 | Danu 23       | Late in Danu |
+| 2042 | September 23 | Cernunnos 2   | Rare occurrence in Cernunnos |
+| 2043 | September 22 | Mórrígan 12   | After 13-month year, returns to pattern |
+| 2044 | September 22 | Cothrom 22    | Completes cycle, similar to 2027 position |
 
 ## Spiritual Interpretations
 
