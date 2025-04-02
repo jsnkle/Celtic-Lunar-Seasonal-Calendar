@@ -1,8 +1,16 @@
-# The Sacred Meanings of the Celtic Lunar-Seasonal Calendar
+# The Sacred Meanings of the Draíocht Calendar
 
 ## A Journey Through Time's Spiral
 
-The Celtic Lunar-Seasonal Calendar is not merely a method of counting days, but a spiritual framework that reconnects us to the wisdom of our ancestors and the eternal rhythms of the cosmos. Each month carries profound symbolism that invites us to attune ourselves to nature's cycles and find our place within the greater tapestry of existence.
+The Draíocht Calendar is not merely a method of counting days, but a spiritual framework that reconnects us to the wisdom of ancient Druids and the eternal rhythms of the cosmos. Each month carries profound symbolism that invites us to attune ourselves to nature's cycles and find our place within the greater tapestry of existence.
+
+## About Draíocht
+
+Draíocht (pronounced DREE-oct) refers to the magical arts and secret knowledge of the Druids—the spiritual leaders and wisdom keepers of pre-Roman Celtic societies. The Druids were skilled astronomers who carefully observed celestial movements and their relationship to seasonal changes on Earth. This calendar system seeks to reconstruct what might have been their original approach to timekeeping, emphasizing direct observation of natural phenomena over imposed mathematical patterns.
+
+By naming this system the "Draíocht Calendar," we honor not just the practical timekeeping aspects, but also the spiritual dimension of the Druids' relationship with time. For the Druids, tracking celestial cycles was not simply a practical necessity but a sacred practice that connected human consciousness to the greater patterns of the cosmos.
+
+The spiral nature of this calendar—with months cycling through the seasons in a pattern that never quite repeats exactly the same way—reflects the Druidic understanding of time as cyclical yet ever-evolving. This stands in contrast to the rigid, linear conception of time that dominates modern society.
 
 ## The Month Names and Their Sacred Meanings
 
