@@ -1,6 +1,12 @@
-# Celtic-Inspired Lunar-Seasonal Calendar for 2025
+# Draíocht Calendar for 2025
 
-This astronomically accurate lunar-seasonal calendar begins with the spring equinox and follows the actual phases of the moon. Each new month begins precisely on a new moon, honoring nature's rhythms rather than human convenience.
+This astronomically accurate calendar begins with the spring equinox and follows the actual phases of the moon. Each new month begins precisely on a new moon, honoring nature's rhythms rather than human convenience. The Draíocht Calendar (pronounced DREE-oct Calendar) represents a reconstruction of how ancient Druids likely approached timekeeping through direct observation of celestial movements.
+
+## About the Draíocht Calendar
+
+The name "Draíocht" comes from the Irish term for the magical arts and secret knowledge of the Druids. As skilled astronomers and spiritual leaders, the Druids would have developed sophisticated methods for tracking time based on careful observation of celestial events and their relationship to seasonal changes on Earth.
+
+Unlike later Celtic calendars that show significant Roman adaptation, the Draíocht Calendar emphasizes observational astronomy and natural phenomena over imposed mathematical systems. It features variable month lengths based on actual lunar cycles and a special first month (Eadarra) that begins on the spring equinox regardless of moon phase, embodying the unpredictable nature of threshold transitions.
 
 ## Current Year: 2025
 
