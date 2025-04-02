@@ -1,6 +1,6 @@
 # Draíocht Calendar
 
-## The Ancient Druid Observational Lunar-Seasonal Spiral Approach
+## The Ancient Druid Lunar-Seasonal Spiral Approach
 
 The Draíocht Calendar is a time-keeping system that aligns with the actual rhythms of the cosmos rather than arbitrary human divisions. This calendar begins each year on the spring equinox and tracks months by the phases of the moon, honoring both solar and lunar cycles in their natural relationship.
 
