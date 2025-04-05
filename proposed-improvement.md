@@ -56,19 +56,6 @@ Note: All dates and times are sourced from timeanddate.com for New York (Eastern
     - The moon's elliptical orbit creates natural variations in month length
     - All times given for New Moon are in Eastern Time (New York)
 
-## Calendar Visualization
-
-```
-                                    2025                                     |  2026
-    Feb     Mar     Apr     May     Jun     Jul     Aug     Sep     Oct     Nov     Dec     Jan     Feb     Mar     Apr
-    ┌───┐   ┌───┐   ┌───┐   ┌───┐   ┌───┐   ┌───┐   ┌───┐   ┌───┐   ┌───┐   ┌───┐   ┌───┐   ┌───┐   ┌───┐   ┌───┐
-    │I-R│   │ 2 │   │ 3 │   │ 4 │   │ 5 │   │ 6 │   │ 7 │   │ 8 │   │ 9 │   │10 │   │11 │   │12 │   │13 │   │I-R│
-    └───┘   └───┘   └───┘   └───┘   └───┘   └───┘   └───┘   └───┘   └───┘   └───┘   └───┘   └───┘   └───┘   └───┘
-          ↑                   ↑                       ↑                       ↑                       ↑
-       Vernal              Summer                  Autumn                  Winter                  Vernal
-      Equinox             Solstice                Equinox                 Solstice                Equinox
-```
-
 ## Meaning of "Idir-Ré"
 
 "Idir-Ré" combines Irish Gaelic elements:
