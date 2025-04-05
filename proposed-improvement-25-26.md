@@ -45,9 +45,9 @@ Note: All dates and times are sourced from timeanddate.com for New York (Eastern
 
 3. **Seasonal Markers**:
     - Vernal Equinox: March 20, 2025 (During first Idir-Ré)
-    - Summer Solstice: June 20, 2025 (During Month 4)
-    - Autumnal Equinox: September 23, 2025 (During Month 8)
-    - Winter Solstice: December 21, 2025 (During Month 11)
+    - Summer Solstice: June 20, 2025 (During Month 3)
+    - Autumnal Equinox: September 23, 2025 (During Month 7)
+    - Winter Solstice: December 21, 2025 (During Month 10)
     - Next Vernal Equinox: March 20, 2026 (During second Idir-Ré)
 
 4. **Lunar Cycle Characteristics**:
