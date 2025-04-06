@@ -1,8 +1,8 @@
 # Draíocht Calendar
 
-## The Ancient Druid Lunar-Seasonal Spiral
+## A Natural Lunar-Solar Spiral
 
-The Draíocht Calendar is a time-keeping system that aligns with the actual rhythms of the cosmos rather than arbitrary human divisions. This calendar begins each year on the spring equinox and tracks months by the phases of the moon, honoring both solar and lunar cycles in their natural relationship.
+The Draíocht Calendar is a time-keeping system that aligns with the actual rhythms of the cosmos rather than arbitrary human divisions. This calendar honors both solar and lunar cycles in their natural relationship, with the year defined by the spring equinox and months determined by the phases of the moon.
 
 
 ## Philosophy
@@ -26,7 +26,7 @@ This repository contains the following resources:
 
 - [The Structure and Mechanics of the Draíocht Calendar](draiocht-calendar-mechanics.md) - A technical explanation of the astronomical foundations of the calendar
 - [The Sacred Meanings of the Draíocht Calendar](draiocht-month-meanings.md) - An exploration of the meaning and symbolism of each month
-- [Draíocht Calendar for 2025](draiocht-calendar-2025.md) - A practical calendar for the current year with month start/end dates and lengths
+- [Draíocht Calendar for 2025-2026](draiocht-calendar-2025-2026.md) - A practical calendar for the current year with month start/end dates and lengths
 - [Frequently Asked Questions](draiocht-calendar-faq.md) - Answers to common questions about the calendar system
 
 
@@ -49,9 +49,9 @@ Unlike many modern calendar reforms that prioritize mathematical convenience, th
 
 ## Special Features
 
-1. **Eadarra, the Threshold Month** - The first month of each year (Eadarra) has a variable length, beginning on the spring equinox and ending with the next new moon. This deliberate variability honors the uncertain, liminal nature of transitions between states.
+1. **Idir-Ré, the Threshold Month** - This special month contains the spring equinox, which divides it into Dorcha-Idir-Ré (Dark Between-Time) before the equinox and Geal-Idir-Ré (Bright Between-Time) after. The equinox marks the precise transition from one year to the next within this threshold month.
 
-2. **13-Month Years** - Approximately every three years, the calendar naturally includes 13 lunar months between spring equinoxes, acknowledging the true relationship between lunar and solar cycles.
+2. **Danu, the Special 13th Month** - Approximately every three years, 13 complete lunar cycles occur between consecutive months containing the spring equinox. During these expanded years, a special month named Danu (after the primordial mother goddess) manifests, honoring the feminine divine energy.
 
 3. **Observational Basis** - The calendar relies on direct observation of astronomical events rather than mathematical formulas, connecting users more deeply to natural cycles.
 
@@ -60,6 +60,25 @@ Unlike many modern calendar reforms that prioritize mathematical convenience, th
 5. **Harmony Between Solar and Lunar** - The calendar honors both solar markers (equinoxes, solstices) and lunar cycles (new moons) without artificially forcing them into alignment.
 
 6. **Natural Variability** - The calendar embraces the natural variability in astronomical cycles rather than imposing artificial regularization, honoring the true patterns of the cosmos.
+
+
+## Month Names and Meanings
+
+The Draíocht Calendar uses a hybrid naming system that balances deity names with seasonal descriptors:
+
+- **Idir-Ré** (IH-djir RAY) - Between-Time, threshold month containing the spring equinox
+- **Brigid** (BRIJ•id) - Goddess of fire, healing, poetry, and crafts
+- **Borradh** (BOR•ruh) - Growth/Flourishing
+- **Grian-Ard** (GREE•un ARD) - High Sun, contains summer solstice
+- **Epona** (EP•on•a) - Goddess of horses, fertility, and journeys
+- **Tús-Fómhair** (TOOS FOH•wir) - First Harvest
+- **Meán-Fómhair** (MAWN FOH•wir) - Mid-Harvest
+- **Maponos** (map•ON•os) - God of youth, music, and poetry
+- **Nantosuelta** (nan•to•SWELL•ta) - Goddess of nature, prosperity, and domesticity
+- **Grianstad** (GREE•un•stad) - Sun's Standing, often contains winter solstice
+- **Sucellos** (su•KEL•os) - God of agriculture, forests, and regeneration
+- **Múscailt** (MOOS•kalt) - Awakening/Stirring
+- **Danu** (DAN•oo) - Primordial mother goddess, appears only in 13-month years
 
 
 ## Relationship to Traditional Festivals

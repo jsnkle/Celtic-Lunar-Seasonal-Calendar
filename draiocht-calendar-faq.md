@@ -4,7 +4,7 @@
 
 ### What is the Draíocht Calendar?
 
-The Draíocht Calendar (pronounced DREE-oct Calendar) is a time-keeping system that aligns with the actual rhythms of the cosmos rather than arbitrary human divisions. This calendar begins each year on the spring equinox and tracks months by the phases of the moon, honoring both solar and lunar cycles in their natural relationship. It represents a reconstruction of how ancient Druids likely approached timekeeping through direct observation of celestial movements.
+The Draíocht Calendar (pronounced DREE-oct Calendar) is a time-keeping system that aligns with the actual rhythms of the cosmos rather than arbitrary human divisions. This calendar tracks years by the spring equinox and months by the phases of the moon, honoring both solar and lunar cycles in their natural relationship. It represents a reconstruction of how ancient Druids likely approached timekeeping through direct observation of celestial movements.
 
 ### What does the name "Draíocht" mean?
 
@@ -26,7 +26,7 @@ The Draíocht Calendar differs from other calendars using the Metonic cycle in s
 
 1. **Natural vs. Mathematical Relationship** - This system allows the natural relationship between lunar and solar cycles to express itself without imposing the precise 19-year Metonic calculation. While the Metonic cycle notes that 19 solar years almost exactly equal 235 lunar months, this calendar doesn't force this mathematical overlay but lets the natural observation of actual astronomical events determine the calendar structure.
 
-2. **Variable First Month** - The calendar features Eadarra, a "threshold month" of deliberately variable length that begins on the spring equinox and ends at the next new moon. This concept is absent in other Metonic-based calendars like the Hebrew or ancient Greek calendars, which typically use fixed-length months with occasional adjustment months.
+2. **Unique Threshold Month** - The calendar features Idir-Ré, a special "between-time" month that contains the spring equinox and serves as both the end of one year and the beginning of the next. This concept is absent in other Metonic-based calendars like the Hebrew or ancient Greek calendars, which typically use fixed-length months with occasional adjustment months.
 
 3. **No Predetermined Intercalation Pattern** - Traditional Metonic calendars like the Hebrew calendar use a fixed pattern of leap months (7 leap years in a 19-year cycle). This calendar doesn't predetermine when a 13th month will occur; instead, it simply acknowledges when 13 complete lunar cycles naturally fall between consecutive spring equinoxes.
 
@@ -60,17 +60,23 @@ This choice reflects what earlier Druidic practices might have emphasized before
 
 Each month begins exactly on the astronomical new moon - the moment when the moon is positioned between Earth and the sun, with its dark side facing us. Month lengths naturally run from one new moon to the next, lasting either 29 or 30 days (occasionally 28 or 31 days, depending on the moon's elliptical orbit and varying speed).
 
-The first month of the year (Eadarra) is an exception, as it begins on the spring equinox regardless of moon phase and ends at the next new moon, creating a "threshold month" of variable length.
+The month containing the spring equinox (Idir-Ré) serves as a threshold between years. The equinox itself marks the precise transition from one year to the next, dividing Idir-Ré into Dorcha-Idir-Ré (before the equinox) and Geal-Idir-Ré (after the equinox).
 
 ### Why does the calendar sometimes have 13 months?
 
-Approximately every three years, 13 full lunar cycles will occur between consecutive spring equinoxes, and this calendar acknowledges this natural pattern rather than forcing 12 months into every year. This results from the mathematical relationship between the lunar cycle (29.53 days) and solar year (365.24 days), which creates a natural rhythm of alternating 12 and 13-month years.
+Approximately every three years, 13 full lunar cycles will occur between consecutive lunar months containing the spring equinox, and this calendar acknowledges this natural pattern rather than forcing 12 months into every year. This results from the mathematical relationship between the lunar cycle (29.53 days) and solar year (365.24 days), which creates a natural rhythm of alternating 12 and 13-month years.
 
-### What is special about Eadarra, the first month?
+In these 13-month years, a special month named for the primordial mother goddess Danu appears. This month only manifests during these expanded cycles, representing the generative matrix from which all cosmic patterns emerge.
 
-Eadarra, meaning "between" or "in-between state" in Irish, honors the liminal space of transition between winter's end and spring's full emergence. This first month of varying length embodies the threshold quality of all beginnings—the sacred pause between what was and what will be.
+### What is special about Idir-Ré, the threshold month?
 
-The variable length of Eadarra serves as a profound spiritual & philosophical reminder: transitions don't conform to rigid timeframes but take exactly as long as they need. In some years, this threshold month may be brief—a rapid awakening; in others, it stretches longer—a gradual unfolding.
+Idir-Ré, meaning "between time" or "between moon" in Irish, honors the liminal space of transition between winter and spring. As the month containing the vernal equinox, it serves as both the final month of one year and the first month of the next, with the equinox itself marking the precise moment of transition.
+
+This threshold month is divided into two distinct phases:
+* **Dorcha-Idir-Ré** (Dark Between-Time): The portion before the vernal equinox, when nights are still longer than days
+* **Geal-Idir-Ré** (Bright Between-Time): The portion after the vernal equinox, when days become longer than nights
+
+The distribution between these phases varies significantly from year to year, offering profound spiritual insights about the quality of transition in each annual cycle. In some rare cases, the equinox may fall at the very beginning or end of the month, creating an Idir-Ré that is entirely Geal or entirely Dorcha.
 
 ## Using the Calendar
 
@@ -96,3 +102,9 @@ This calendar respects and complements traditional fire festivals (Samhain, Imbo
 - While Imbolc (February 1-2) celebrates the first stirrings of spring within the community context, this calendar recognizes the spring equinox as the astronomical beginning of a new year
 - The traditional festivals remain important community celebrations within this framework
 - This calendar adds astronomical precision to personal timekeeping while honoring the cultural significance of established observances
+
+### Is the Draíocht Calendar unique in its approach?
+
+The Draíocht Calendar's approach of using a threshold month (Idir-Ré) split by the equinox to create a year boundary is indeed quite distinctive in calendar design. While many systems throughout history have attempted to reconcile lunar and solar cycles, they typically use entire intercalary months rather than splitting individual months at significant astronomical events.
+
+This elegant solution honors the Druidic appreciation for threshold times and "between" periods while creating a perfect balance between solar and lunar rhythms. The concept of Dorcha-Idir-Ré and Geal-Idir-Ré divided by the equinox represents an innovative contribution to calendar design that still honors the philosophical underpinnings of Celtic timekeeping traditions.
