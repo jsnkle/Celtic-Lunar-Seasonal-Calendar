@@ -67,7 +67,7 @@ Key aspects of this definition:
 
 3. **Year Classification**
    * Standard Year: Contains 12 lunar cycles, including the partial Geal-Idir-Ré at the beginning of the year and the partial Dorcha-Idir-Ré at the end of the year
-   * Long Year: Contains 13 lunar cycles between consecutive vernal equinoxes, including the two partial Idir-Ré periods and featuring the special month Danré
+   * Long Year: Contains 13 lunar cycles between consecutive vernal equinoxes, including the two partial Idir-Ré periods and featuring the special month Ré Anann
 
 ### Month Structure
 
@@ -97,14 +97,16 @@ Key aspects of month structure:
       * In the rarest alignment, when the equinox falls on the day before the next new moon, the month becomes entirely Dorcha-Idir-Ré
    * These natural variations offer profound spiritual insights about the quality of transition in a given year
 
-4. **Danré (Special 13th Month)**
-   * Pronounced "DAN-ray," meaning "Danu's moon" or "Danu's era" in Irish Gaelic
-   * Named in honor of the divine feminine principle associated with the primordial mother goddess
+4. **Ré Anann (Special 13th Month)**
+   * Pronounced "ray AN-an," meaning "time/period of Anu" in Old Irish
+   * Named in honor of Anu/Anann, an historically attested mother goddess in Irish mythology
    * Appears only in long years with 13 complete lunar cycles between equinoxes
-   * Specifically, it is designated as the third complete lunar cycle in any season that contains four new moons, similar to the "Blue Moon" principle.
+   * Specifically, it is designated as the third complete lunar cycle in any season that contains four new moons, similar to the "Blue Moon" principle
    * Represents the generative matrix from which all cycles emerge and to which they return
    * Its occasional manifestation speaks to cycles of abundance and the deeper patterns of cosmic time
-   * While traditionally associated with Danu, this month welcomes personal connections to whatever divine feminine energy resonates with each practitioner's spiritual path
+   * The name honors Anu/Anann who is explicitly named as "mother of the gods of Ireland" in the 9th century Sanas Cormaic (Cormac's Glossary)
+   * Connected to physical landmarks in Ireland, namely the "Dá Chich Anann" or "the Paps of Anu" - twin hills in County Kerry resembling breasts
+   * Her association with the earth and fertility aligns perfectly with the abundance represented by a 13th month
 
 ### Day Counting
 
@@ -142,9 +144,9 @@ The result is a beautiful pattern of drift and return:
    * In 13-month years, each month begins approximately 18 days later relative to the solar year than it did the previous year
    * Over long periods, months drift through the seasons in a predictable pattern
 
-2. **The Emergence of Danré**
-   * This drift pattern creates the conditions for the periodic appearance of Danré, the special 13th month
-   * Danré manifests as the third new moon in any season that contains four (where a season typically has three)
+2. **The Emergence of Ré Anann**
+   * This drift pattern creates the conditions for the periodic appearance of Ré Anann, the special 13th month
+   * Ré Anann manifests as the third new moon in any season that contains four (where a season typically has three)
    * This follows the traditional "Blue Moon" principle, maintaining the integrity of other seasonal months
    * Like a cosmic breath, the calendar expands to 13 months and then contracts back to 12
    * This natural pulsation reflects greater cosmic rhythms of expansion and contraction
@@ -276,7 +278,7 @@ Beyond its scientific validity, this calendar offers profound spiritual benefits
 
 4. **Divine Feminine Connection**
    * Acknowledges the cosmic importance of the number 13 and its traditional association with feminine cycles
-   * Honors the divine feminine principle through the special month Danré
+   * Honors the divine feminine principle through the special month Ré Anann and its connection to Anu/Anann, a historically attested mother goddess
    * Creates space for personal connection with feminine spiritual energies as they manifest in natural cycles
 
 ## Practical Implementation
@@ -299,7 +301,7 @@ Adopting this calendar system involves practical considerations:
    * Shared new year celebrations at spring equinox
    * New moon gatherings to mark month beginnings
    * Seasonal observances at solstices and equinoxes
-   * Special ceremonies during Danré to honor abundance and the divine feminine
+   * Special ceremonies during Ré Anann to honor abundance and the divine feminine
 
 ### Technological Support
 
@@ -309,7 +311,7 @@ Modern technology can support rather than replace direct observation:
    * Apps that display both current Draíocht and Gregorian dates
    * Notification systems for new moons and other astronomical events
    * Dynamic month-length calculations based on actual astronomical data
-   * Automatic identification of seasons containing four moons and designation of Danré
+   * Automatic identification of seasons containing four moons and designation of Ré Anann
 
 2. **Observational Aids**
    * Moon phase trackers
@@ -325,7 +327,7 @@ Modern technology can support rather than replace direct observation:
 
 The Draíocht Calendar represents more than just an alternative way to count days—it embodies a fundamentally different relationship with time itself. Rather than viewing time as an abstract resource to be measured, divided, and controlled, this calendar invites us to experience time as a relationship with the cosmos.
 
-By aligning our timekeeping with actual celestial cycles, we acknowledge that we are not separate from or above the natural world but integrally woven into its patterns. The slight "inconvenience" of variable month lengths and the occasional appearance of Danré is a small price to pay for reconnecting with the authentic rhythms that have governed life on Earth since its beginning.
+By aligning our timekeeping with actual celestial cycles, we acknowledge that we are not separate from or above the natural world but integrally woven into its patterns. The slight "inconvenience" of variable month lengths and the occasional appearance of Ré Anann is a small price to pay for reconnecting with the authentic rhythms that have governed life on Earth since its beginning.
 
 In a world increasingly dominated by artificial schedules, digital timekeeping, and disconnection from natural cycles, this calendar offers something precious—a way back to the direct experience of cosmic time. It reminds us that before clocks and calendars, humans oriented themselves by the sun's path and the moon's phases, finding meaning and guidance in these celestial movements.
 
