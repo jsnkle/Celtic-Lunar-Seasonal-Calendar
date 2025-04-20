@@ -98,7 +98,7 @@ Key aspects of month structure:
    * These natural variations offer profound spiritual insights about the quality of transition in a given year
 
 4. **Ré Anann (Special 13th Month)**
-   * Pronounced "ray AN-an," meaning "time/period of Anu" in Old Irish
+   * Pronounced "ray AN-an," meaning "time/era of Anu" in Old Irish
    * Named in honor of Anu/Anann, an historically attested mother goddess in Irish mythology
    * Appears only in long years with 13 complete lunar cycles between equinoxes
    * Specifically, it is designated as the third complete lunar cycle in any season that contains four new moons, similar to the "Blue Moon" principle
