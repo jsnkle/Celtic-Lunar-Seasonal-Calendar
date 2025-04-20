@@ -10,6 +10,9 @@ This naming scheme tells the story of cosmic balance, movement to extremes, and 
 - Contains the vernal equinox - the first balance point
 - Threshold month marking the beginning/end of the cycle
 - Represents the liminal state between cycles
+- The month is divided into two distinct phases:
+    * **Idir-Ré Críoch** (Ending Between-Time): The portion before the vernal equinox (pronounced ID-eer RAY kree-ukh)
+    * **Idir-Ré Tús** (Beginning Between-Time): The portion after the vernal equinox (pronounced ID-eer RAY toose)
 
 ### 2. **Éirí** (Rising/Ascension)
 - First full month after the vernal equinox
