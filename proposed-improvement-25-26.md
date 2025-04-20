@@ -5,29 +5,30 @@
 This calendar follows a lunar-seasonal approach where:
 - Each month begins precisely on the astronomical new moon
 - The month containing the vernal (spring) equinox is named "Idir-Ré"
-- All other months follow the hybrid deity/seasonal naming system
+- All other months follow the journey from balance to extremes and back
+- The special month of Ré Anann appears as the third new moon of any season containing four
 - The cycle continues until we reach the next occurrence of Idir-Ré
 
 Note: All dates and times are sourced from timeanddate.com for New York (Eastern Time) as the definitive reference source for this calendar.
 
 ## Lunar Months and Gregorian Correspondence (2025-2026)
 
-| Month Name | Pronunciation | New Moon (Start Date) | End Date | Length | Significant Events |
-|------------|---------------|------------------------|----------|--------|-------------------|
-| **Idir-Ré** | IH-djir RAY | February 27, 2025 (7:46 PM) | March 28, 2025 | 30 days | Vernal Equinox (March 20) |
-| **Brigid** | BRIJ•id | March 29, 2025 (7:00 AM) | April 26, 2025 | 29 days | |
-| **Borradh** | BOR•ruh | April 27, 2025 (3:33 PM) | May 25, 2025 | 29 days | |
-| **Grian-Ard** | GREE•un ARD | May 26, 2025 (11:04 PM) | June 24, 2025 | 30 days | Summer Solstice (June 20) |
-| **Epona** | EP•on•a | June 25, 2025 (6:33 AM) | July 23, 2025 | 29 days | |
-| **Tús-Fómhair** | TOOS FOH•wir | July 24, 2025 (3:12 PM) | August 22, 2025 | 30 days | |
-| **Meán-Fómhair** | MAWN FOH•wir | August 23, 2025 (2:07 AM) | September 20, 2025 | 29 days | |
-| **Maponos** | map•ON•os | September 21, 2025 (3:54 PM) | October 20, 2025 | 30 days | Autumnal Equinox (Sept 23) |
-| **Nantosuelta** | nan•to•SWELL•ta | October 21, 2025 (8:25 AM) | November 19, 2025 | 30 days | |
-| **Grianstad** | GREE•un•stad | November 20, 2025 (1:48 AM) | December 18, 2025 | 29 days | |
-| **Sucellos** | su•KEL•os | December 19, 2025 (8:44 PM) | January 17, 2026 | 30 days | Winter Solstice (Dec 21) |
-| **Múscailt** | MOOS•kalt | January 18, 2026 (2:53 PM) | February 16, 2026 | 30 days | |
-| **Danu** | DAN•oo | February 17, 2026 (7:03 AM) | March 17, 2026 | 29 days | |
-| **Idir-Ré** | IH-djir RAY | March 18, 2026 (9:26 PM) | April 16, 2026 | 30 days | Vernal Equinox (March 20) |
+| Month Name       | Pronunciation   | New Moon (Start Date) | End Date           | Length  | Significant Events         |
+|------------------|-----------------|-----------------------|--------------------|---------|----------------------------|
+| **Idir-Ré**      | ID-eer RAY      | February 27, 2025     | March 28, 2025     | 30 days | Vernal Equinox (March 20)  |
+| **Éirí**         | AY-ree          | March 29, 2025        | April 26, 2025     | 29 days |                            |
+| **Neartú**       | NYART-oo        | April 27, 2025        | May 25, 2025       | 29 days | Beltane (May 5th)          |
+| **Grian Thuaidh** | GREE-un HOO-ee  | May 26, 2025          | June 24, 2025      | 30 days | Summer Solstice (June 20)  |
+| **Iompú**        | UM-poo          | June 25, 2025         | July 23, 2025      | 29 days |                            |
+| **Cothromú**     | KUH-hrum-oo     | July 24, 2025         | August 22, 2025    | 30 days | Lughnasadh (Aug 6)         |
+| **Ré Anann**     | RAY AN-an       | August 23, 2025       | September 20, 2025 | 29 days | Special 13th Month         |
+| **Réiteach**     | RAY-tyakh       | September 21, 2025    | October 20, 2025   | 30 days | Autumnal Equinox (Sept 23) |
+| **Ísliú**        | EESH-lyoo       | October 21, 2025      | November 19, 2025  | 30 days | Samhain (Nov 6)            |
+| **Doimhniú**     | DOI-nyoo        | November 20, 2025     | December 18, 2025  | 29 days |                            |
+| **Grian Theas**  | GREE-un HASS    | December 19, 2025     | January 17, 2026   | 30 days | Winter Solstice (Dec 21)   |
+| **Filleadh**     | FIL-uh          | January 18, 2026      | February 16, 2026  | 30 days | Imbolc (Feb 3)             |
+| **Aisling**      | ASH-ling        | February 17, 2026     | March 17, 2026     | 29 days |                            |
+| **Idir-Ré**      | ID-eer RAY      | March 18, 2026        | April 16, 2026     | 30 days | Vernal Equinox (March 20)  |
 
 ## Notes on the Calendar
 
@@ -36,19 +37,19 @@ Note: All dates and times are sourced from timeanddate.com for New York (Eastern
    - It serves as both the final month of one year and the first month of the next
    - The vernal equinox (March 20) marks the transition point within this month
    - The month is divided into two distinct phases:
-      * **Dorcha-Idir-Ré** (Dark Between-Time): The portion before the vernal equinox, when nights are still longer than days
-      * **Geal-Idir-Ré** (Bright Between-Time): The portion after the vernal equinox, when days become longer than nights
+      * **Idir-Ré Críoch** (Ending Between-Time): The portion before the vernal equinox (pronounced ID-eer RAY kree-ukh)
+      * **Idir-Ré Tús** (Beginning Between-Time): The portion after the vernal equinox (pronounced ID-eer RAY toose)
 
 2. **13-Month Cycle**:
    - The 2025-2026 cycle contains 13 complete lunar months
    - This is a natural occurrence that happens approximately every 2-3 years when 13 complete lunar cycles fit between consecutive lunar months containing the spring equinox
-   - The appearance of Danu, named for the primordial mother goddess, is significant as this month only manifests during these special 13-month years
+   - The appearance of Ré Anann, named for the historically attested mother goddess, is significant as this month only manifests during these special 13-month years
 
 3. **Seasonal Markers**:
    - Vernal Equinox: March 20, 2025 (During first Idir-Ré)
-   - Summer Solstice: June 20, 2025 (During Grian-Ard)
-   - Autumnal Equinox: September 23, 2025 (During Maponos)
-   - Winter Solstice: December 21, 2025 (During Sucellos)
+   - Summer Solstice: June 20, 2025 (During Grian Thuaidh)
+   - Autumnal Equinox: September 23, 2025 (During Réiteach)
+   - Winter Solstice: December 21, 2025 (During Grian Theas)
    - Next Vernal Equinox: March 20, 2026 (During second Idir-Ré)
 
 4. **Lunar Cycle Characteristics**:
@@ -59,20 +60,20 @@ Note: All dates and times are sourced from timeanddate.com for New York (Eastern
 
 ## Month Names and Meanings
 
-This naming system blends deity names with seasonal descriptors, creating a balanced approach that honors both the sacred powers and natural cycles important to Celtic tradition.
+This naming system creates a journey from balance to extremes and back, focusing on astronomical positions rather than seasonal effects, making it relevant for both hemispheres.
 
-| Month | Name | Type | Meaning |
-|-------|------|------|---------|
-| **Idir-Ré** | Seasonal | Between-Time (contains Spring Equinox) |
-| **Brigid** | Deity | Goddess of fire, healing, poetry, and crafts |
-| **Borradh** | Seasonal | Growth/Flourishing |
-| **Grian-Ard** | Seasonal | High Sun (contains Summer Solstice) |
-| **Epona** | Deity | Goddess of horses, fertility, and journeys |
-| **Tús-Fómhair** | Seasonal | First Harvest |
-| **Meán-Fómhair** | Seasonal | Mid-Harvest |
-| **Maponos** | Deity | God of youth, music, and poetry |
-| **Nantosuelta** | Deity | Goddess of nature, prosperity, and domesticity |
-| **Grianstad** | Seasonal | Solstice (often contains Winter Solstice) |
-| **Sucellos** | Deity | God of agriculture, forests, and regeneration |
-| **Múscailt** | Seasonal | Awakening/Stirring |
-| **Danu** | Deity | Primordial mother goddess (appears only in 13-month years) |
+| Month | Name | Meaning |
+|-------|------|---------|
+| 1     | **Idir-Ré** | Between-Time (contains Vernal Equinox) |
+| 2     | **Éirí** | Rising/Ascension (beginning movement from balance) |
+| 3     | **Neartú** | Strengthening/Intensifying (approaching first extreme) |
+| 4     | **Grian Thuaidh** | Sun North (maximum northern position, first extreme) |
+| 5     | **Iompú** | Turning/Transformation (first shift back toward balance) |
+| 6     | **Cothromú** | Balancing/Equalizing (preparation for equilibrium) |
+| 7     | **Réiteach** | Reconciliation/Resolution (contains Autumnal Equinox) |
+| 8     | **Ísliú** | Lowering/Descending (beginning movement toward second extreme) |
+| 9     | **Doimhniú** | Deepening (approaching second extreme) |
+| 10    | **Grian Theas** | Sun South (maximum southern position, second extreme) |
+| 11    | **Filleadh** | Returning (beginning movement back toward balance) |
+| 12    | **Aisling** | Vision/Dream (preparation for renewal and threshold) |
+| 13    | **Ré Anann** | Time of Anu (special month that appears only in 13-month years) |
