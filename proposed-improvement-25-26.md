@@ -1,7 +1,12 @@
 # Draíocht Calendar (2025-2026)
+This astronomically accurate calendar follows the actual phases of the moon and the solar year defined by the spring equinox. Each month begins precisely on a new moon, honoring nature's rhythms rather than human convenience. The Draíocht Calendar (pronounced DREE-oct Calendar) represents a reconstruction of how ancient Druids likely approached timekeeping through direct observation of celestial movements.
+
+## About the Draíocht Calendar
+The name "Draíocht" comes from the Irish term for the magical arts and secret knowledge of the Druids. As skilled astronomers and spiritual leaders, the Druids would have developed sophisticated methods for tracking time based on careful observation of celestial events and their relationship to seasonal changes on Earth.
+
+Unlike later Celtic calendars that show significant Roman adaptation, the Draíocht Calendar emphasizes observational astronomy and natural phenomena over imposed mathematical systems. It features variable month lengths based on actual lunar cycles and recognizes the natural occurrence of 13-month years approximately every 2-3 years when 13 complete lunar cycles fit between consecutive spring equinoxes.
 
 ## Calendar Structure
-
 This calendar follows a lunar-seasonal approach where:
 - Each month begins precisely on the astronomical new moon
 - The month containing the vernal (spring) equinox is named "Idir-Ré"
@@ -58,6 +63,15 @@ Note: All dates and times are sourced from timeanddate.com for New York (Eastern
    - The moon's elliptical orbit creates natural variations in month length
    - All times given for New Moon are in Eastern Time (New York)
 
+### Total Days in the Year: 365
+
+The year technically begins at the spring equinox (March 20, 2025) within the first Idir-Ré and ends at the next spring equinox (March 20, 2026) within the second Idir-Ré. Counting only the Idir-Ré portion of the first Idir-Ré Tús (9 days) and the Idir-Ré Críoch portion of the final Idir-Ré (2 days), plus all complete months in between, this creates a true solar year of 365 days:
+
+* Idir-Ré Tús (first): 9 days
+* Complete months between equinoxes: 354 days (Éirí through Aisling)
+* Idir-Ré Críoch (final): 2 days
+* Total: 365 days
+
 ## Month Names and Meanings
 
 This naming system creates a journey from balance to extremes and back, focusing on astronomical positions rather than seasonal effects, making it relevant for both hemispheres.
@@ -77,3 +91,13 @@ This naming system creates a journey from balance to extremes and back, focusing
 | 11    | **Filleadh** | Returning (beginning movement back toward balance) |
 | 12    | **Aisling** | Vision/Dream (preparation for renewal and threshold) |
 | 13    | **Ré Anann** | Time of Anu (special month that appears only in 13-month years) |
+
+## Living By This Calendar
+
+While still living within the conventional Gregorian system, you can begin to notice and honor these natural cycles:
+
+* **Observe the New Moon** - Each new moon marks the beginning of a new month in this system. Take a moment to set intentions aligned with that month's energy.
+* **Honor the Equinoxes and Solstices** - These quarter points mark significant transitions in the solar year. The spring equinox is particularly important as it marks the new year in this system.
+* **Notice Natural Patterns** - Begin to observe how plants, animals, and your own energy shift with these lunar and solar cycles.
+
+By aligning more closely with these natural rhythms, we reconnect with the wisdom of our ancestors and find ourselves more attuned to the living world around us.
