@@ -8,7 +8,7 @@ The Draíocht Calendar represents a fundamental shift away from arbitrary human 
 
 ## About the Name
 
-Draíocht (pronounced DREE-oct) is an Irish term derived from the Old Irish "druídecht" meaning "the secret lore and arts of the druids." This name reflects our understanding that this calendar system reconstructs what might have been the original approach to timekeeping practiced by ancient Druids before Roman influence. Unlike later Celtic calendars that show significant Roman adaptation, the Draíocht Calendar emphasizes direct astronomical observation and natural cycles over imposed mathematical systems.
+Draíocht (pronounced DREE-oct) is an Irish term literally translated to "magic," and derived from the Old Irish "druídecht" meaning "the secret lore and arts of the druids." This name reflects our understanding that this calendar system reconstructs what might have been the original approach to timekeeping practiced by ancient Druids before Roman influence. Unlike later Celtic calendars that show significant Roman adaptation, the Draíocht Calendar emphasizes direct astronomical observation and natural cycles over imposed mathematical systems.
 
 Ancient Druids were highly educated individuals who spent up to 20 years studying natural philosophy, astronomy, and religious practices. As respected knowledge-keepers who moved between tribes, they would have developed sophisticated methods for tracking time based on careful observation of celestial events. The Draíocht Calendar honors this wisdom tradition by prioritizing observation and connection with natural cycles.
 
@@ -66,8 +66,8 @@ Key aspects of this definition:
    * This ensures seasonal alignment and provides a fixed reference point
 
 3. **Year Classification**
-   * Regular Year: Contains 12 complete lunar months between equinoxes
-   * Long Year: Contains 13 complete lunar months between equinoxes, featuring the special month Danu that only appears in these years
+   * Standard Year: Contains 12 lunar cycles, including the partial Geal-Idir-Ré at the beginning of the year and the partial Dorcha-Idir-Ré at the end of the year
+   * Long Year: Contains 13 lunar cycles between consecutive vernal equinoxes, including the two partial Idir-Ré periods and featuring the special month Danré
 
 ### Month Structure
 
@@ -97,11 +97,14 @@ Key aspects of month structure:
       * In the rarest alignment, when the equinox falls on the day before the next new moon, the month becomes entirely Dorcha-Idir-Ré
    * These natural variations offer profound spiritual insights about the quality of transition in a given year
 
-4. **Danu (Special 13th Month)**
-   * Named for the primordial mother goddess
-   * Appears only in long years with 13 complete lunar cycles
+4. **Danré (Special 13th Month)**
+   * Pronounced "DAN-ray," meaning "Danu's moon" or "Danu's era" in Irish Gaelic
+   * Named in honor of the divine feminine principle associated with the primordial mother goddess
+   * Appears only in long years with 13 complete lunar cycles between equinoxes
+   * Specifically, it is designated as the third complete lunar cycle in any season that contains four new moons, similar to the "Blue Moon" principle.
    * Represents the generative matrix from which all cycles emerge and to which they return
    * Its occasional manifestation speaks to cycles of abundance and the deeper patterns of cosmic time
+   * While traditionally associated with Danu, this month welcomes personal connections to whatever divine feminine energy resonates with each practitioner's spiritual path
 
 ### Day Counting
 
@@ -139,9 +142,10 @@ The result is a beautiful pattern of drift and return:
    * In 13-month years, each month begins approximately 18 days later relative to the solar year than it did the previous year
    * Over long periods, months drift through the seasons in a predictable pattern
 
-2. **The Emergence of Danu**
-   * This drift pattern creates the conditions for the periodic appearance of Danu, the special 13th month
-   * Danu manifests only when a full 13 lunar cycles fit between consecutive months containing the vernal equinox
+2. **The Emergence of Danré**
+   * This drift pattern creates the conditions for the periodic appearance of Danré, the special 13th month
+   * Danré manifests as the third new moon in any season that contains four (where a season typically has three)
+   * This follows the traditional "Blue Moon" principle, maintaining the integrity of other seasonal months
    * Like a cosmic breath, the calendar expands to 13 months and then contracts back to 12
    * This natural pulsation reflects greater cosmic rhythms of expansion and contraction
 
@@ -270,6 +274,11 @@ Beyond its scientific validity, this calendar offers profound spiritual benefits
    * Transforms routine timekeeping into a spiritual practice
    * Deepens appreciation for the wonders of our cosmic home
 
+4. **Divine Feminine Connection**
+   * Acknowledges the cosmic importance of the number 13 and its traditional association with feminine cycles
+   * Honors the divine feminine principle through the special month Danré
+   * Creates space for personal connection with feminine spiritual energies as they manifest in natural cycles
+
 ## Practical Implementation
 
 ### Living by Cosmic Time
@@ -290,6 +299,7 @@ Adopting this calendar system involves practical considerations:
    * Shared new year celebrations at spring equinox
    * New moon gatherings to mark month beginnings
    * Seasonal observances at solstices and equinoxes
+   * Special ceremonies during Danré to honor abundance and the divine feminine
 
 ### Technological Support
 
@@ -299,6 +309,7 @@ Modern technology can support rather than replace direct observation:
    * Apps that display both current Draíocht and Gregorian dates
    * Notification systems for new moons and other astronomical events
    * Dynamic month-length calculations based on actual astronomical data
+   * Automatic identification of seasons containing four moons and designation of Danré
 
 2. **Observational Aids**
    * Moon phase trackers
@@ -314,7 +325,7 @@ Modern technology can support rather than replace direct observation:
 
 The Draíocht Calendar represents more than just an alternative way to count days—it embodies a fundamentally different relationship with time itself. Rather than viewing time as an abstract resource to be measured, divided, and controlled, this calendar invites us to experience time as a relationship with the cosmos.
 
-By aligning our timekeeping with actual celestial cycles, we acknowledge that we are not separate from or above the natural world but integrally woven into its patterns. The slight "inconvenience" of variable month lengths and the occasional 13th month is a small price to pay for reconnecting with the authentic rhythms that have governed life on Earth since its beginning.
+By aligning our timekeeping with actual celestial cycles, we acknowledge that we are not separate from or above the natural world but integrally woven into its patterns. The slight "inconvenience" of variable month lengths and the occasional appearance of Danré is a small price to pay for reconnecting with the authentic rhythms that have governed life on Earth since its beginning.
 
 In a world increasingly dominated by artificial schedules, digital timekeeping, and disconnection from natural cycles, this calendar offers something precious—a way back to the direct experience of cosmic time. It reminds us that before clocks and calendars, humans oriented themselves by the sun's path and the moon's phases, finding meaning and guidance in these celestial movements.
 
