@@ -2,6 +2,12 @@
 
 ## A Natural Lunar-Solar Spiral
 
+Our relationship to time, in its truest form, is not mechanical. It follows the rhythms of the cosmos  The Draíocht Calendar (pronounced DREE-oct) honors these natural patterns, aligning human timekeeping with the actual movements of celestial bodies rather than arbitrary divisions. This calendar tracks years by the spring equinox and months by the phases of the moon, creating a system that resonates with both scientific precision and spiritual meaning.
+
+# Draíocht Calendar
+
+## A Natural Lunar-Solar Spiral
+
 The Draíocht Calendar is a time-keeping system that aligns with the actual rhythms of the cosmos rather than arbitrary human divisions. This calendar honors both solar and lunar cycles in their natural relationship, with the year defined by the spring equinox and months determined by the phases of the moon.
 
 
@@ -88,6 +94,13 @@ This calendar respects and complements the traditional fire festivals (Samhain, 
 * While Imbolc (February 1-2) celebrates the first stirrings of spring within the community context, our calendar recognizes the spring equinox as the astronomical beginning of a new year
 * The traditional festivals remain important community celebrations within our framework
 * Our calendar adds astronomical precision to personal timekeeping while honoring the cultural significance of established observances
+
+
+## Experiencing the Calendar
+
+As you begin to notice the lunar cycles and seasonal transitions marked in this calendar, you may discover a deeper connection to the natural world. Consider starting with a single lunar month - observe how the energy shifts from new moon to full and back again. Mark the equinox as a moment of balance and renewal.
+
+This calendar invites not just intellectual understanding but lived experience, offering a way to reconnect with cosmic rhythms that have guided humanity since our earliest days.
 
 
 ## Contributions
