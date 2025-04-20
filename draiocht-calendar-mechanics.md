@@ -101,7 +101,7 @@ Key aspects of month structure:
    * Pronounced "ray AN-an," meaning "time/era of Anu" in Old Irish
    * Named in honor of Anu/Anann, an historically attested mother goddess in Irish mythology
    * Appears only in long years with 13 complete lunar cycles between equinoxes
-   * Specifically, it is designated as the third complete lunar cycle in any season that contains four new moons, similar to the "Blue Moon" principle
+   * Specifically, it is designated as the third new moon between an equinox and solstice that contains four.
    * Represents the generative matrix from which all cycles emerge and to which they return
    * Its occasional manifestation speaks to cycles of abundance and the deeper patterns of cosmic time
    * The name honors Anu/Anann who is explicitly named as "mother of the gods of Ireland" in the 9th century Sanas Cormaic (Cormac's Glossary)
