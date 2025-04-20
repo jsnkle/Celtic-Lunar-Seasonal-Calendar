@@ -87,8 +87,8 @@ Key aspects of month structure:
 3. **Idir-Ré (Equinox Month)**
    * The month containing the vernal equinox serves as a threshold month
    * It is divided into two distinct phases:
-      * **Idir-Ré Críoch** (ID-eer RAY kree-ukh) — Between Era End: The portion before the vernal equinox, when nights are still longer than days
-      * **Idir-Ré Tús** (ID-eer RAY toose) — Between Era Start: The portion after the vernal equinox, when days become longer than nights
+      * **Idir-Ré Críoch** (Ending Between-Time): The portion before the vernal equinox (pronounced ID-eer RAY kree-ukh)
+      * **Idir-Ré Tús** (Beginning Between-Time): The portion after the vernal equinox (pronounced ID-eer RAY toose)
    * The distribution between these phases varies significantly from year to year:
       * In some years, the equinox falls early in the month, creating a brief Críoch period and dominant Tús period
       * In rare cases, when the equinox falls exactly on the new moon, the month becomes entirely Idir-Ré Tús
