@@ -25,6 +25,8 @@ This repository contains the following resources:
 - [The Structure and Mechanics of the Draíocht Calendar](draiocht-calendar-mechanics.md) - A technical explanation of the astronomical foundations of the calendar
 - [The Sacred Meanings of the Draíocht Calendar](draiocht-month-meanings.md) - An exploration of the meaning and symbolism of each month
 - [Month Naming Concept](month-naming-concept.md) - A practical example of a standard and Anann years with month start/end dates and lengths
+- [2025-2026 Calendar](2025-2026-calendar.md) - Text based documentation of dates and significant events for current year
+- [2026-2027 Calendar](2026-2027-calendar.md) - Text based documentation of dates and significant events for next year
 - [Frequently Asked Questions](draiocht-calendar-faq.md) - Answers to common questions about the calendar system
 
 ## Using This Calendar
