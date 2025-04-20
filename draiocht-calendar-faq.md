@@ -16,7 +16,7 @@ The calendar is based on five philosophical principles:
 
 1. **Cyclical Time** - Recognizing time as a spiral rather than a straight line, returning to similar points while never repeating exactly.
 2. **Harmony with Nature** - Tracking actual astronomical events rather than arbitrary human divisions, reweaving our consciousness into natural cycles.
-3. **Balance of Energies** - Honoring both masculine and feminine divine energies, both light and dark, both action and receptivity.
+3. **Balance of Energies** - Honoring the complementary forces that create dynamic tension necessary for life, both light and dark, both action and receptivity.
 4. **Ancestral Wisdom** - Connecting to how ancient Druids understood time and seasons, honoring their wisdom while creating something meaningful for present use.
 5. **Attentiveness** - Requiring mindfulness of moon phases and seasonal changes, fostering a deeper connection to the natural world.
 
@@ -60,23 +60,23 @@ This choice reflects what earlier Druidic practices might have emphasized before
 
 Each month begins exactly on the astronomical new moon - the moment when the moon is positioned between Earth and the sun, with its dark side facing us. Month lengths naturally run from one new moon to the next, lasting either 29 or 30 days (occasionally 28 or 31 days, depending on the moon's elliptical orbit and varying speed).
 
-The month containing the spring equinox (Idir-Ré) serves as a threshold between years. The equinox itself marks the precise transition from one year to the next, dividing Idir-Ré into Dorcha-Idir-Ré (before the equinox) and Geal-Idir-Ré (after the equinox).
+The month containing the spring equinox (Idir-Ré) serves as a threshold between years. The equinox itself marks the precise transition from one year to the next, dividing Idir-Ré into Idir-Ré Críoch (before the equinox) and Idir-Ré Tús (after the equinox).
 
 ### Why does the calendar sometimes have 13 months?
 
 Approximately every three years, 13 full lunar cycles will occur between consecutive lunar months containing the spring equinox, and this calendar acknowledges this natural pattern rather than forcing 12 months into every year. This results from the mathematical relationship between the lunar cycle (29.53 days) and solar year (365.24 days), which creates a natural rhythm of alternating 12 and 13-month years.
 
-In these 13-month years, a special month named for the primordial mother goddess Danu appears. This month only manifests during these expanded cycles, representing the generative matrix from which all cosmic patterns emerge.
+In these 13-month years, a special month named Ré Anann (after the primordial mother goddess Anu) appears. This month only manifests during these expanded cycles, representing the generative matrix from which all cosmic patterns emerge.
 
 ### What is special about Idir-Ré, the threshold month?
 
 Idir-Ré, meaning "between time" or "between moon" in Irish, honors the liminal space of transition between winter and spring. As the month containing the vernal equinox, it serves as both the final month of one year and the first month of the next, with the equinox itself marking the precise moment of transition.
 
 This threshold month is divided into two distinct phases:
-* **Dorcha-Idir-Ré** (Dark Between-Time): The portion before the vernal equinox, when nights are still longer than days
-* **Geal-Idir-Ré** (Bright Between-Time): The portion after the vernal equinox, when days become longer than nights
+* **Idir-Ré Críoch** (Ending Between-Time): The portion before the vernal equinox, representing the completion of the previous cycle
+* **Idir-Ré Tús** (Beginning Between-Time): The portion after the vernal equinox, representing the inception of the new cycle
 
-The distribution between these phases varies significantly from year to year, offering profound spiritual insights about the quality of transition in each annual cycle. In some rare cases, the equinox may fall at the very beginning or end of the month, creating an Idir-Ré that is entirely Geal or entirely Dorcha.
+The distribution between these phases varies significantly from year to year, offering profound spiritual insights about the quality of transition in each annual cycle. In some rare cases, the equinox may fall at the very beginning or end of the month, creating an Idir-Ré that is almost entirely Tús or entirely Críoch.
 
 ## Using the Calendar
 
@@ -107,4 +107,4 @@ This calendar respects and complements traditional fire festivals (Samhain, Imbo
 
 The Draíocht Calendar's approach of using a threshold month (Idir-Ré) split by the equinox to create a year boundary is indeed quite distinctive in calendar design. While many systems throughout history have attempted to reconcile lunar and solar cycles, they typically use entire intercalary months rather than splitting individual months at significant astronomical events.
 
-This elegant solution honors the Druidic appreciation for threshold times and "between" periods while creating a perfect balance between solar and lunar rhythms. The concept of Dorcha-Idir-Ré and Geal-Idir-Ré divided by the equinox represents an innovative contribution to calendar design that still honors the philosophical underpinnings of Celtic timekeeping traditions.
+This elegant solution honors the Druidic appreciation for threshold times and "between" periods while creating a perfect balance between solar and lunar rhythms. The concept of Idir-Ré Críoch and Idir-Ré Tús divided by the equinox represents an innovative contribution to calendar design that still honors the philosophical underpinnings of Celtic timekeeping traditions.
