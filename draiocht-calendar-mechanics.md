@@ -66,7 +66,7 @@ Key aspects of this definition:
    * This ensures seasonal alignment and provides a fixed reference point
 
 3. **Year Classification**
-   * Standard Year: Contains 12 lunar cycles, including the partial Geal-Idir-Ré at the beginning of the year and the partial Dorcha-Idir-Ré at the end of the year
+   * Standard Year: Contains 12 lunar cycles, including the partial Idir-Ré Tús at the beginning of the year and the partial Idir-Ré Críoch at the end of the year
    * Long Year: Contains 13 lunar cycles between consecutive vernal equinoxes, including the two partial Idir-Ré periods and featuring the special month Ré Anann
 
 ### Month Structure
@@ -87,14 +87,14 @@ Key aspects of month structure:
 3. **Idir-Ré (Equinox Month)**
    * The month containing the vernal equinox serves as a threshold month
    * It is divided into two distinct phases:
-      * **Dorcha-Idir-Ré** (Dark Between-Time): The portion before the vernal equinox, when nights are still longer than days
-      * **Geal-Idir-Ré** (Bright Between-Time): The portion after the vernal equinox, when days become longer than nights
+      * **Idir-Ré Críoch** (ID-eer RAY kree-ukh) — Between Era End: The portion before the vernal equinox, when nights are still longer than days
+      * **Idir-Ré Tús** (ID-eer RAY toose) — Between Era Start: The portion after the vernal equinox, when days become longer than nights
    * The distribution between these phases varies significantly from year to year:
-      * In some years, the equinox falls early in the month, creating a brief Dorcha period and dominant Geal period
-      * In rare cases, when the equinox falls exactly on the new moon, the month becomes entirely Geal-Idir-Ré
-      * In balanced years, the equinox falls near the middle, creating roughly equal Dorcha and Geal periods
-      * When the equinox falls late in the month, Dorcha dominates with only a brief Geal period
-      * In the rarest alignment, when the equinox falls on the day before the next new moon, the month becomes entirely Dorcha-Idir-Ré
+      * In some years, the equinox falls early in the month, creating a brief Críoch period and dominant Tús period
+      * In rare cases, when the equinox falls exactly on the new moon, the month becomes entirely Idir-Ré Tús
+      * In balanced years, the equinox falls near the middle, creating roughly equal Críoch and Tús periods
+      * When the equinox falls late in the month, Críoch dominates with only a brief Tús period
+      * In the rarest alignment, when the equinox falls on the day before the next new moon, the month becomes entirely Idir-Ré Críoch
    * These natural variations offer profound spiritual insights about the quality of transition in a given year
 
 4. **Ré Anann (Special 13th Month)**
